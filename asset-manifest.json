@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SST-TH-Music-Scores/static/css/main.8c1af7d2.css",
+    "main.js": "/SST-TH-Music-Scores/static/js/main.9ec5d65b.js",
+    "static/js/787.365ec2af.chunk.js": "/SST-TH-Music-Scores/static/js/787.365ec2af.chunk.js",
+    "static/media/Duel Of The Fates - TH-Alto_2.pdf": "/SST-TH-Music-Scores/static/media/Duel Of The Fates - TH-Alto_2.dc2a656fe605d004695a.pdf",
+    "static/media/Duel Of The Fates - TH-Alto.pdf": "/SST-TH-Music-Scores/static/media/Duel Of The Fates - TH-Alto.6fe50a6056230939eb13.pdf",
+    "index.html": "/SST-TH-Music-Scores/index.html",
+    "main.8c1af7d2.css.map": "/SST-TH-Music-Scores/static/css/main.8c1af7d2.css.map",
+    "main.9ec5d65b.js.map": "/SST-TH-Music-Scores/static/js/main.9ec5d65b.js.map",
+    "787.365ec2af.chunk.js.map": "/SST-TH-Music-Scores/static/js/787.365ec2af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c1af7d2.css",
+    "static/js/main.9ec5d65b.js"
+  ]
+}
