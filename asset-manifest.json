@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SST-TH-Melody-Master/static/css/main.8c1af7d2.css",
-    "main.js": "/SST-TH-Melody-Master/static/js/main.d0f9e424.js",
+    "main.js": "/SST-TH-Melody-Master/static/js/main.b5f1827a.js",
     "static/js/787.365ec2af.chunk.js": "/SST-TH-Melody-Master/static/js/787.365ec2af.chunk.js",
     "static/media/Duel Of The Fates - TH-Alto_2.pdf": "/SST-TH-Melody-Master/static/media/Duel Of The Fates - TH-Alto_2.dc2a656fe605d004695a.pdf",
     "static/media/Duel Of The Fates - TH-Bass.pdf": "/SST-TH-Melody-Master/static/media/Duel Of The Fates - TH-Bass.d9db4f2edcf8b00f7422.pdf",
@@ -9,11 +9,11 @@
     "static/media/Duel Of The Fates - TH-Contrabass.pdf": "/SST-TH-Melody-Master/static/media/Duel Of The Fates - TH-Contrabass.df8be387f03deec18c84.pdf",
     "index.html": "/SST-TH-Melody-Master/index.html",
     "main.8c1af7d2.css.map": "/SST-TH-Melody-Master/static/css/main.8c1af7d2.css.map",
-    "main.d0f9e424.js.map": "/SST-TH-Melody-Master/static/js/main.d0f9e424.js.map",
+    "main.b5f1827a.js.map": "/SST-TH-Melody-Master/static/js/main.b5f1827a.js.map",
     "787.365ec2af.chunk.js.map": "/SST-TH-Melody-Master/static/js/787.365ec2af.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c1af7d2.css",
-    "static/js/main.d0f9e424.js"
+    "static/js/main.b5f1827a.js"
   ]
 }
